@@ -1,0 +1,54 @@
+/* ----- How it works section ----- */
+.section-how {
+    padding: 9.6rem 0;
+}
+
+.step-img-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.step-img-box::before,
+.step-img-box::after {
+    content: "";
+    display: block;
+    position: absolute;
+
+    border-radius: 50%;
+    z-index: -1;
+}
+
+.step-img-box::before {
+    background-color: #fdf2e9;
+    width: 60%;
+
+    /* 60% of parent's width */
+    padding-bottom: 60%;
+}
+
+.step-img-box::after {
+    background-color: #fae5d3;
+    width: 45%;
+
+    /* 45% of parent's width */
+    padding-bottom: 45%;
+}
+
+.step-img {
+    width: 35%;
+    margin: 0 auto;
+}
+
+.step-number {
+    font-size: 8.6rem;
+    font-weight: 600;
+    color: #ddd;
+    margin-bottom: 1.2rem;
+}
+
+.step-description {
+    font-size: 1.8rem;
+    line-height: 1.8;
+}
