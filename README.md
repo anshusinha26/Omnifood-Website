@@ -1,4 +1,4 @@
-# Omnifood - Website
+# 🍱 Omnifood - Website
 
 The 'Omnifood' website is a responsive example project showcasing a healthy meal delivery service. It features a clean and modern design built primarily with HTML CSS and some JavaScript. The website highlights the service's focus on healthy meal options and includes subscription models for convenient meal planning and delivery.
 
