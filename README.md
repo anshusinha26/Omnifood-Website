@@ -14,18 +14,16 @@ Link: https://omnifood-anshu-sinha.netlify.app
 
 ## ✨ Features
 
-- Responsive Design: Fully optimized for desktops, tablets, and mobile devices, ensuring a seamless user experience across all screen sizes.
-- Adventure Theme: Eye-catching design inspired by nature and outdoor activities, with vivid imagery and an adventurous vibe.
-- Tour Exploration: Intuitive layout to browse and explore various tours, highlighting key details and features.
-- SASS Integration: Clean and modular CSS, leveraging SASS for easier maintenance and reusable components.
-- Booking Representation: Functional mockup for booking tours, simulating a real-world booking flow.
-- Interactive Elements: Hover effects, animations, and transitions for enhanced user engagement.
-- Optimized Performance: Lightweight and fast-loading pages, ensuring a smooth browsing experience.
+- Responsive Design: Optimized for all screen sizes (desktop, tablet, and mobile). Flexible layout adapting seamlessly to various devices.
+- Subscription Models: Users can choose meal plans based on preferences and duration. Highlights pricing and benefits of each subscription tier.
+- Modern UI/UX: Clean, professional, and visually appealing design. Emphasis on user-friendly navigation and readability.
+- Showcasing Health Focus: Promotes healthy living and food choices. Uses images and descriptions to highlight nutritious meals.
+- Interactive Features: Call-to-action buttons for exploring menus or subscribing. Simple JavaScript interactions for enhancing user experience.
 
 ---
 
 ## ⚙️ Tech Stack
 
-- HTML5: For semantic structure and content organization.
-- CSS3: For styling and layout of the website.
-- SASS (SCSS): For modular and maintainable CSS with advanced features like nesting, variables, and mixins.
+- HTML: Structure and content of the website.
+- CSS: Custom styling for layout and aesthetics. Used techniques like Flexbox and media queries for responsiveness.
+- JavaScript (Minimal): Basic interactivity, such as form validation or interactive UI elements.
