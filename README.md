@@ -1,14 +1,14 @@
-# Natours - Website
+# Omnifood - Website
 
-"Natours" is a fully responsive adventure and nature-themed website, crafted with CSS and SASS. It provides an engaging frontend experience where users can explore and book tours, showcasing the essence of outdoor exploration and travel.
+The 'Omnifood' website is a responsive example project showcasing a healthy meal delivery service. It features a clean and modern design built primarily with HTML CSS and some JavaScript. The website highlights the service's focus on healthy meal options and includes subscription models for convenient meal planning and delivery.
 
-Link: https://natours-anshusinha.netlify.app
+Link: https://omnifood-anshu-sinha.netlify.app
 
 ---
 
 ## 📸 Screenshots
 
-![Frontend](final-images/natours_website.webp)
+![Frontend](final-images/omnifood_website.png)
 
 ---
 
